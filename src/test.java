@@ -11,10 +11,6 @@ public class test {
         String table = "employee";
         String sqlSelect = buildSelectSql(table,fields);
         System.out.println(sqlSelect);
-        System.out.println("test");
-        System.out.println("test");
-        System.out.println("test");
-        System.out.println("test");
 
 
     }
