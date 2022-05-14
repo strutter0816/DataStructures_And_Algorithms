@@ -11,7 +11,7 @@ public class test {
         String table = "employee";
         String sqlSelect = buildSelectSql(table,fields);
         System.out.println(sqlSelect);
-        System.out.println("pull test");
+        System.out.println("push test");
         
 
 
